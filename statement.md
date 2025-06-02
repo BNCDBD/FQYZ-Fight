@@ -1,4 +1,4 @@
-# Luogu U563029 FQYZ杀
+[Luogu U563029 FQYZ杀](https://www.luogu.com.cn/problem/U563029)
 
 ## 题目背景
 
